@@ -1,2 +1,2 @@
 # Curp-SQL
-Using code for CURP (MX) generation via SQL Server
+A CURP generation script (MX) via SQL Server

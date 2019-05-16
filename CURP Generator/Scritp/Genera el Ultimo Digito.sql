@@ -11,7 +11,7 @@
 	@V_CURP varchar(18),
 	
 
-	SET @V_Curp = 'GASE960115HTCRNL0'
+	SET @V_Curp = 'PENX690515HDFRZR0'
 
 
     --Get last character

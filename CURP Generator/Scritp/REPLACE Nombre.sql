@@ -1,6 +1,6 @@
 declare @STRING varchar(100)
 
-set @STRING = 'ELÍAS' , 'DE LOS SANTOS', 'GUEI'
+set @STRING = 'Pérez' , 'DE LOS SANTOS', 'GUEI'
 SET @STRING = UPPER(@string)
 
 	--SELECT REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(@STRING, 'Ã', 'A'),'À', 'A'),'Á', 'A'),'Ä', 'A'),'Â', 'A'),'È', 'E'),'É', 'E'),'Ë', 'E'),'Ê', 'E'),'Ì', 'I'),'Í', 'I'),'Ï', 'I'),'Î', 'I'),'Ò', 'O'),'Ó', 'O'),'Ö', 'O'),'Ô', 'O'),'Ù', 'U'),'Ú', 'U'),'Ü', 'U'),'Û', 'U'),'Ñ', 'N'),'Ç', 'C')
